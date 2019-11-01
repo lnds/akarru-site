@@ -8,6 +8,10 @@ disqusShortname = "akarru"
 googleAnalytics = ""
 
 
+[permalinks]
+    post = "/blog/:year/:month/:day/:slug"
+    
+
 [params]
     site_author = "Eduardo Díaz"
     site_description = "El tiempo ha llegado, dijo la morsa, de hablar de muchas cosas."
@@ -21,7 +25,7 @@ googleAnalytics = ""
     custom_js  = []
 
     # Define which content types are shown on the homepage
-    mainSections = ["posts"]
+    mainSections = ["post"]
 
     # Enable gogle analytics by entering your tracking code
     google_analytics = ""
