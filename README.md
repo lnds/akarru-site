@@ -2,3 +2,5 @@
 sitio web akarru
 
 ver https://www.akarru.com/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0c3256ca-73a8-4c6d-bd8a-a03f64015fcb/deploy-status)](https://app.netlify.com/sites/akarru/deploys)
