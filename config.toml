@@ -1,3 +1,40 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://akarru.com/"
+languageCode = "es-cl"
+title = "Akarru"
+description = "El tiempo ha llegado, dijo la morsa, de hablar de muchas cosas."
+theme = "hugo-minimalist"
+paginate = 10
+disqusShortname = "akarru"
+googleAnalytics = ""
+
+
+[params]
+    site_author = "Eduardo Díaz"
+    site_description = "El tiempo ha llegado, dijo la morsa, de hablar de muchas cosas."
+    location = "Santiago - Chile"
+    # Link custom assets relative to /static
+    avatar = "img/author.jpg"
+    header_background = "img/banner.jpg"
+    header_title = "Akarrú"
+    copyright = "Eduardo Díaz"
+    custom_css = []
+    custom_js  = []
+
+    # Define which content types are shown on the homepage
+    mainSections = ["posts"]
+
+    # Enable gogle analytics by entering your tracking code
+    google_analytics = ""
+
+[social]
+    # Add your social network accounts to the profile section on the left
+    # by entering your username. The links to your account will be
+    # create automatically.
+    twitter   = "lnds"
+    facebook  = ""
+    linkedin  = ""
+    behance   = ""
+    dribbble  = ""
+    instagram = ""
+    github    = ""
+    gplus     = ""
