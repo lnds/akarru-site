@@ -13,7 +13,7 @@ googleAnalytics = ""
     site_description = "El tiempo ha llegado, dijo la morsa, de hablar de muchas cosas."
     location = "Santiago - Chile"
     # Link custom assets relative to /static
-    avatar = "/simg/author.jpg"
+    avatar = "/img/author.jpg"
     header_background = "/img/banner.jpg"
     header_title = "Akarrú"
     copyright = "Eduardo Díaz"
