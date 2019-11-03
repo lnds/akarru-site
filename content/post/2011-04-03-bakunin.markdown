@@ -1,0 +1,66 @@
+---
+comments: true
+date: 2011-04-03 10:21:22
+layout: post
+slug: bakunin
+title: Bakunin
+wordpress_id: 303
+categories:
+- Filosofía
+- paradigmas
+tags:
+- anarkia
+- anarquía
+- libertad
+- libros
+- personajes
+---
+
+![](/images/2011/04/Bakunin-236x300.png)
+
+> Suponed una academia de sabios, compuesta por los representantes más ilustres de la ciencia; suponed que esa academia sea encargada de la legislación, de la organización de la sociedad y que, sólo inspirándose en el puro amor a la verdad, no le dicte más que leyes absolutamente conformes a los últimos descubrimientos de la ciencia. Y bien, yo pretendo que esa legislación y esa organización serán una monstruosidad, y esto por dos razones: La primera, porque la ciencia humana es siempre imperfecta necesariamente y, comparando lo que se ha descubierto con lo que queda por descubrir, se puede decir que está todavía en la cuna. De suerte que si quisiera forzar la vida práctica de los hombres, tanto colectiva como individual, a conformarse estrictamente, exclusivamente con los últimos datos de la ciencia, se condenaría a la sociedad y a los individuos a sufrir el martirio sobre el lecho de Procusto, que acabaría pronto por dislocarlos y por sofocarlos, pues la vida es siempre infinitamente más amplia que la ciencia.
+
+> La segunda razón es ésta: una sociedad que obedeciere a la legislación de una academia científica, no porque hubiere comprendido su carácter racional por sí misma (en cuyo caso la existencia de la academia sería inútil), sino porque una legislación tal, emanada de esa academia, se impondría en nombre de una ciencia venerada sin comprenderla, sería, no una sociedad de hombres, sino de brutos. Sería una segunda edición de esa pobre república del Paraguay que se dejó gobernar tanto tiempo por la Compañía de Jesús. Una sociedad semejante no dejaría de caer bien pronto en el más bajo grado del idiotismo.
+
+> Pero hay una tercera razón que hace imposible tal gobierno: es que una academia científica revestida de esa soberanía digamos que absoluta, aunque estuviere compuesta por los hombres más ilustres, acabaría infaliblemente y pronto por corromperse moral e intelectualmente. Esta es hoy, ya, con los pocos privilegios que se les dejan, la historia de todas las academias. El mayor genio científico, desde el momento en que se convierte en académico, en sabio oficial, patentado, cae inevitablemente y se adormece. Pierde su espontaneidad, su atrevimiento revolucionario, y esa energía incómoda y salvaje que caracteriza la naturaleza de los grandes genios, llamados siempre a destruir los mundos caducos y a echar los fundamentos de mundos nuevos. Gana sin duda en cortesía, sabiduría utilitaria y práctica, lo que pierde en potencia de pensamiento. Se corrompe, en una palabra.
+
+> Es propio del privilegio y de toda posición privilegiada el matar el espíritu y el corazón de los hombres. El hombre privilegiado, sea política, sea económicamente, es un hombre intelectual y moralmente depravado. He ahí una ley social que no admite ninguna excepción, y que se aplica tanto a las naciones enteras como a las clases, a las compañías como a los individuos. Es la ley de la igualdad, condición suprema de la libertad y de la humanidad. El objetivo principal de este libro es precisamente desarrollarla y demostrar la verdad en todas las manifestaciones de la vida humana.
+
+![](/images/2011/04/Bakunin_speaking-220x300.png)
+
+> Un cuerpo científico al cual se haya confiado el gobierno de la sociedad, acabará pronto por no ocuparse absolutamente nada de la ciencia, sino de un asunto distinto; y ese asunto, como sucede con todos los poderes establecidos, será el de perpetuarse a sí mismo, haciendo que la sociedad confiada a sus cuidados se vuelva cada vez más estúpida, y por consiguiente más necesitada de su gobierno y de su dirección.
+
+> Pero lo que es verdad para las academias científicas es verdad igualmente para todas las asambleas constituyentes y legislativas, aunque hayan salido del sufragio universal. Este puede renovar su composición, es verdad, pero eso no impide que se forme en unos pocos años un cuerpo de políticos, privilegiados de hecho, o de derecho, y que, al dedicarse exclusivamente a la dirección de los asuntos públicos de un país, acaban formar una especie de aristocracia o de oligarquía política. Ved si no los Estados Unidos de América y Suiza. Por tanto, nada de legislación exterior y de legislación interior, pues por otra parte una es inseparable de la otra, y ambas tienden al sometimiento de la sociedad y al embrutecimiento de los legisladores mismos.
+
+> ¿Se desprende de esto que rechazo toda autoridad? Lejos de mí ese pensamiento. Cuando se trata de zapatos, prefiero la autoridad del zapatero; si se trata de una casa, de un canal o de un ferrocarril, consulto la del arquitecto o del ingeniero. Para esta o la otra, ciencia especial me dirijo a tal o cual sabio. Pero no dejo que se impongan a mí ni el zapatero, ni el arquitecto ni el sabio. Les escucho libremente y con todo el respeto que merecen su inteligencia, su carácter, su saber, pero me reservo mi derecho incontestable de crítica y de control. No me contento con consultar una sola autoridad especialista, consulto varias; comparo sus opiniones, y elijo la que me parece más justa. Pero no reconozco autoridad infalible, ni aun en cuestiones especiales; por consiguiente, no obstante el respeto que pueda tener hacia la honestidad y la sinceridad de tal o cual individuo, no tengo fe absoluta en nadie. Una fe semejante sería fatal a mi razón, la libertad y al éxito mismo de mis empresas; me transformaría inmediatamente en un esclavo estúpido y en un instrumento de la voluntad y de los intereses ajenos. Si me inclino ante la autoridad de los especialistas si me declaro dispuesto a seguir, en una cierta medida durante todo el tiempo que me parezca necesario sus indicaciones y aun su dirección, es porque esa autoridad no me es impuesta por nadie, ni por los hombres ni por Dios. De otro modo la rechazaría con honor y enviaría al diablo sus consejos, su dirección y su ciencia, seguro de que me harían pagar con la pérdida de mi libertad y de mi dignidad los fragmentos de verdad humana, envueltos en muchas mentiras, que podrían darme.
+
+> Me inclino ante la autoridad de los hombres especiales porque me es impuesta por la propia razón. Tengo conciencia de no poder abarcar en todos sus detalles y en sus desenvolvimientos positivos más que una pequeña parte de la ciencia humana. La más grande inteligencia no podría abarcar el todo. De donde resulta para la ciencia tanto como para la industria, la necesidad de la división y de la asociación del trabajo. Yo recibo y doy, tal es la vida humana. Cada uno es autoridad dirigente y cada uno es dirigido a su vez. Por tanto no hay autoridad fija y constante, sino un cambio continuo de autoridad y de subordinación mutuas, pasajeras y sobre todo voluntarias.
+
+> Esa misma razón me impide, pues, reconocer una autoridad fija, constante y universal, porque no hay hombre universal, hombre que sea capaz de abarcar con esa riqueza de detalles (sin la cual la aplicación de la ciencia a la vida no es posible), todas las ciencias, todas las ramas de la vida social. Y si una tal universalidad pudiera realizarse en un solo hombre, quisiera prevalerse de ella para imponemos su autoridad, habría que expulsar a ese hombre de la sociedad, porque su autoridad reduciría inevitablemente a todos los demás a la esclavitud y a la imbecilidad. No pienso que la sociedad deba maltratar a los hombres de genio como ha hecho hasta el presente. Pero no pienso tampoco que deba engordarlos demasiado, ni concederles sobre todo privilegios o derechos exclusivos de ninguna especie; y esto por tres razones: primero, porque sucedería a menudo que se tomaría a un charlatán por un hombre de genio; luego, porque, por este sistema de privilegios, podría transformar en un charlatán a un hombre de genio, desmoralizarlo y embrutecerlo, y en fin, porque se daría uno a sí mismo un déspota.
+
+![](/images/2011/04/Bakunin_Membership_Card-300x194.jpg)
+
+
+> Resumo. Nosotros reconocemos, pues, la autoridad absoluta de la ciencia, porque la ciencia no tiene otro objeto que la reproducción mental, reflexiva y todo lo sistemática que sea posible, de las leyes naturales inherentes a la vida tanto material como intelectual y moral del mundo físico y del mundo social; esos dos mundos no constituyen en realidad más que un solo y mismo mundo natural. Fuera de esa autoridad, la única legítima, porque es racional y está conforme a la naturaleza humana, declaramos que todas las demás son mentirosas, arbitrarias, despóticas y funestas.
+
+> Reconocemos la autoridad absoluta de la ciencia, pero rechazamos la infabilidad y la universalidad de los representantes de la ciencia. En nuestra iglesia –séame permitido servirme un momento de esta expresión que por otra parte detesto; la iglesia y el Estado mis dos bestias negras–, en nuestra iglesia, como en la iglesia protestante, nosotros tenemos un jefe, un Cristo invisible, la ciencia; y como los protestantes, consecuentes aún que los protestantes, no quieren sufrir ni papas ni concilios, ni cónclaves de cardenales infalibles, ni obispos, ni siquiera sacerdotes, nuestro Cristo se distingue del Cristo protestante y cristiano en que este último es un ser personal, y el nuestro es impersonal; el Cristo cristiano, realizado ya en un pasado eterno, se presenta como un ser perfecto, mientras que la realización y el perfeccionamiento de nuestro Cristo, de la ciencia, están siempre en el porvenir, lo que equivale a decir que no se realizarán jamás. No reconociendo la autoridad absoluta más que ciencia absoluta, no comprometemos de ningún momento nuestra libertad.
+
+
+> Entiendo por las palabras “ciencia absoluta”, la única verdaderamente universal que reproduciría idealmente el universo, en toda su extensión y en todos sus detalles infinitos, el sistema o la coordinación de todas las leyes naturales que se manifiestan en el desenvolvimiento incesante de los mundos. Es evidente que esta ciencia, objeto sublime de todos los esfuerzos del espíritu humano, no se realizará nunca en su plenitud absoluta. Nuestro Cristo quedará, pues, eternamente inacabado, lo cual debe rebajar mucho el orgullo de sus presentantes patentados entre nosotros. Contra ese Dios hijo, en nombre del cual pretenderían imponernos autoridad insolente y pedantesca, apelaremos al Dios padre, que es el mundo real, la vida real de lo cual El no es más que una expresión demasiado imperfecta y de quien nosotros somos los representantes inmediatos, los seres reales, que viven, trabajan, combaten, aman, aspiran, gozan y sufren.
+
+> Pero aun rechazando la autoridad absoluta, universal e infalible de los hombres de ciencia, nos inclinamos voluntariamente ante la autoridad respetable, pero relativa, muy pasajera, muy restringida, de los representantes de las ciencias especiales, no exigiendo nada mejor que consultarles en cada caso y muy agradecidos por las indicaciones preciosas que quieran darnos, a condición de que ellos quieran recibirlas de nosotros sobre cosas y en ocasiones en que somos más sabios que ellos; y en general, no pedimos nada mejor que ver a los hombres dotados de un gran saber, de una gran experiencia, de un gran espíritu y de un gran corazón sobre todo, ejercer sobre nosotros una influencia natural y legítima, libremente aceptada, y nunca impuesta en nombre de alguna autoridad oficial cualquiera que sea, terrestre o celeste. Aceptamos todas las autoridades naturales y todas las influencias de hecho, ninguna de derecho; porque toda autoridad o toda influencia de derecho, y como tal oficialmente impuesta, al convertirse pronto en una opresión y en una mentira, nos impondría infaliblemente, como creo haberío demostrado suficientemente, la esclavitud y el absurdo.
+
+> En una palabra, rechazamos toda legislación, toda autoridad y toda influencia privilegiadas, patentadas, oficiales y legales, aunque salgan del sufragio universal, convencidos de que no podrán actuar sino en provecho de una minoría dominadora y explotadora, contra los intereses de la inmensa mayoría sometida.
+
+>He aquí en qué sentido somos realmente anarquistas.
+
+> 
+> Mikhail Bakunin, 30 de mayo 1814 - 1 de julio 1876
+> 
+> 
+
+
+
+![](/images/2011/04/Black_rose.png)]
+
+Texto tomado de ["Dios y El Estado"](http://www.feedbooks.com/book/4759/dios-y-el-estado)

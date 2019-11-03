@@ -13,6 +13,7 @@ SectionPagesMenu = "main"
 Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
 enableRobotsTXT = true
 enableEmoji = true
+fencedCode = true
 
 [permalinks]
     post = "/blog/:year/:month/:day/:slug"

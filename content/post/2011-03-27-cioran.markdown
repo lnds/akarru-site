@@ -1,0 +1,29 @@
+---
+comments: true
+date: 2011-03-27 12:03:09
+layout: post
+slug: cioran
+title: Cioran
+wordpress_id: 299
+categories:
+- Filosofía
+- Huellas
+- misterios
+tags:
+- Cioran
+- escribir
+- escritura
+- filosofía
+- libros
+- pensamientos
+- vida
+---
+
+![](/images/2011/03/Cioran.png)
+
+> "Mi primer libro lo escribí en rumano a los veintún años, prometiéndome no volver a escribir nada más. Luego escribí otro, seguido de la misma promesa. La comedia se ha repetido durante más de cuarenta años. ¿Por qué? Porque escribir, por poco que sea, me ha ayudado a pasar los años, pues las obsesiones _expresadas_ quedan debilitadas y superadas a medias. Estoy seguro de que si no hubiese emborronado papel, me hubiera matado hace mucho. Escribir es un alivio extraordinario. Y publicar también. Esto les parecerá ridículo y, sin embargo, es muy cierto. Pues un libro es es vuestra vida, o una parte de ella, que os hace _exterior_. Se desprende uno de todo lo que ama y sobre todo de todo lo que detesta de uno mismo. Iré más lejos, si no hubiese escrito, hubiera podido convertirme en un asesino. La expresión es una liberación. Les aconsejo que hagan el ejercicio siguiente: cuando odien a alguien y sientan ganas de liquidarle, cojan un trozo de papel y escriban que Fulano es un puerco, un bandido, un crápula, un monstruo. En seguida advertirán que ya lo odian menos. Es precisamente lo mismo que yo he hecho respecto de mi mismo. He escrito para injuriar la vida y para injuriarme. ¿Resultado? Me he soportado mejor y he soportado mejor la vida."
+
+> Emile Cioran, 8 de abril 1911, 20 de junio 1995.
+
+
+

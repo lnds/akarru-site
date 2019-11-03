@@ -1,0 +1,88 @@
+---
+comments: true
+date: 2011-01-18 23:13:55
+layout: post
+slug: jano
+title: Jano
+wordpress_id: 274
+categories:
+- Familia
+- misterios
+- Paganismo
+tags:
+- bifronte
+- Diana
+- dios
+- diosa
+- dioses
+- hogar
+- Jano
+- mitología
+- Mitos
+- paganismo
+- Roma
+- tiempo
+- vesta
+---
+
+El mes de enero se llama así en honor al dios romano Jano,  Iianus o Janus en latín. En inglés es January, en portugues Janeiro. Rio de Janeiro es Rio de Enero, porque el navegante Gaspar Lemos ingresó a esta bahía el primero de enero de 1502 (como você pode ler [aqui](http://www.rio.rj.gov.br/web/guest/exibeconteudo?article-id=87129)). En latín, entonces, el primer mes era Ianiarus, en latín clásico no hay J, de ahí que a nuestra lengua derivó en Enero.
+
+Pero volvamos a Jano. Este es un dios bien peculiar. Acá está una imagen del museo vaticano:
+
+![](/images/2011/01/220px-Janus-Vatican.jpg)
+
+Como ven tiene dos caras mirando a direcciones opuestas.
+
+Si ustedes buscan Jano en Google es probable que en primer lugar encuentren la definición de wikipedia: [http://es.wikipedia.org/wiki/Jano](http://es.wikipedia.org/wiki/Jano), en ella Jano es simplemente el dios de las puertas, y con esa simple respuesta quedarán contentos.
+
+Pero esa definición me parece tan equivocada y simplista que no me deja tranquilo. Yo no estoy tan seguro de que Jano fuera un simple dios de las puertas. Este post tiene la secreta esperanza de que algunos de ustedes se den cuenta que hay conocimiento más allá de wikipedia, de que probablemente esto que les voy a contar sea más preciso y enriquecedor que un texto editado anónimamente, fruto del wisdom of the crowd.Invoco el espiritu del bifronte, para que ilumine este empeño mío.
+
+Sí, Jano es el **bifronte**, el que tiene dos frentes, dos caras.
+
+Un bifronte también es un tipo de anagrama. Así como existen las palabras y frases palíndromas, (que se leen igual de izquierda a derecha, como Ana, o anilina) las palabras o frases bifrontes son las que de izquierda a derecha tienen un sentido, y de derecha a izquierda tienen otro, como educa y acude, roma y amor, alevin y nivela, oracle y el caro ;), etc.
+
+¿Y por qué este dios es bifronte? ¿Que relación tiene con las puertas?
+
+Acudo a mi biblioteca y desempolvo la Rama Dorada de  James George Frazer  ([versión online en inglés](http://www.sacred-texts.com/pag/frazer/index.htm)). ¡Qué libro más hermoso es este! Se me pasan los minutos leyendo el capítulo 16, que tiene una pista para resolver el misterio.
+
+Janua era la palabra que usaban los romanos para decir puerta, y de ahí que antiguos escolásticos hayan pensado que Jano era el dios de las puertas, y así queda consagrado en el conocimiento enciclopédico, y su pobre heredero cibernético. Pero resulta que la palabra corriente para puerta tiene el mismo origen en todas las lenguas de origen ario, desde la India hasta Irlanda. En sánscrito es _dur_, en griego _thura_, en alemán _tür_, en inglés _door_, y es _dorus _en irlandés, en latín _foris_. Resulta que aparte de foris, los romanos usaban janua, que parece más una palabra de origen adjetivo, porque los romanos tenían la costumbre de colocar una imagen del dios en sus puertas.  Así que parece más lógico pensar que llamaba janua en honor al dios, y no parece claro de que esta deidad cumpliera el humilde rol de portero.
+
+Esta costumbre puede explicar también uno de los grande enigmas de los mitólogos, el origen de las  dos caras.
+
+
+> "Cuando se hizo costumbre guardar la entrada de las casas y ciudades por una imagen de Jano, podría muy bien haberse estimado necesario que el dios centinela mirase hacia adelante y hacia atrás con la idea de que nada escapase de su vigilante mirada, pues si el guardián divino diera la cara siempre a la misma dirección, es fácil imaginar que podría forjarse a sus espaldas y con impunidad alguna desgracia."
+
+
+Pero para entender mejor el rol de Jano, y porque se colocaba en las puertas acudo a otro libro, ya volveremos con Sir George, por allí cerca está el tercer volumen de "Las Máscaras de Dios", de Joseph Campbell.
+
+
+> "Los _numina _romanos más importantes eran los del hogar... El culto de la familia se relacionaba en primer lugar con el misterio de su propia continuidad en el tiempo, y estaba representado en los rituales que honraban a los antepasados (_manes_) y en festivales de todos los muertos (_parentes_). También reverenciaban a los numina del hogar: los de la despensa (_penates_) y los de los enseres domésticos (lares) El guardián del fuego del hogar Vesta, estaba personificado como una diosa, y el de la puerta, Jano, como un dios. También existía la idea de un numen del poder procreador de cada varón, su genius, y del poder de la mujer para concebir y engendrar, su juno. Genius y juno nacían y morían con el individuo. Permanecían a su lado durante la vida como espiritus protectores y podían ser representados como serpientes. Bajo la influencia griega el poder de juno se desarrolló posteriormente como la diosa Juno, guardiana del nacimiento y la maternidad, y entonces de la identificó con la griega Hera".
+
+
+![](/images/2011/01/vesta.jpg)
+
+En los bosques del Lacio, volvemos a Frasier, también se consagraba el fuego a Vesta, que era alimentado con ramas del roble sagrado, consagrado a Diana. En la proximidad al lago Nemi había un antiguo templo consagrado a Diana, que era celosamente resguardado por un rey-sacerdote. Este personaje pasaba el día con una espada en su mano, vigilando cautelosamente, como esperando ser atacado en cualquier instante por un enemigo.
+
+
+> "El vigilante era sacerdote y homicida a la vez; tarde o temprano habría de llegar quien le matara, para reemplazarle en el puesto sacerdotal. Tal era la regla del santuario: el puesto sólo podía ocuparse matando al sacerdote y substituyéndole en su lugar hasta ser a su vez muerto por otro más fuerte o más habil".
+
+
+¿Era este sacerdote la representación, la encarnación del esposo de Diana? Una interpretación es que este dios representaba al dios del roble, a Júpiter, que se unía a la diosa del roble, Diana, en el bosque sagrado.
+
+¿Pero no era Juno la esposa de Júpiter? Y si Diana tenía marido, lo menos es que se llamara Diano, o Jano que es una corrupción del nombre.
+
+
+> "Todo esto es verdad, más la objeción puede contrarrestarse observando que las dos parejas divinas, Júpiter y Juno por un lado, y Diano y Diana, o Jano y Jana por otro, son sencillamente duplicaciones una de la otra, siendo sus nombres y sus funciones idénticos en substancia y origen. Respecto a los nombres, los cuatro vienen de la raiz aria "di" que significa "brillante", como ocurre con las deidades griegas correspondientes, Zeus y su antigua consorte, Dione. En cuanto a sus funciones, Juno y Diana fueron ambas diosas de la fertilidad y los partos y ambas fueron más pronto o más tarde identificadas con la Luna. En cuanto a la genuina naturaleza y funciones de Jano, los mismos antiguos estuvieron embrollados y si ellos titubearon, no esperaremos nosotros decidir confiadamente."
+
+
+Para Varrón, amigo de Julio Cesar, Jano es el dios de los cielos. Jano tenía el epiteto de Junoniano, que hacía referencia a su unión con Juno. Además los romanos tenían la costumbre de invocar a Jano y a Jove (eso queda en la expresión inglesa, By Jove!), y se le daba el título de padre. San Agustín identificó a Jano con Júpiter, sino que hay testimonios de ofrendas paganas a Jupiter Diano. Al parecer hay más evidencias que hacen presumir que Zeus y Dione, Jano y Jana son la misma pareja divina.
+
+Asociemos  lo anterior, con el texto de Campbell. Ahí tenemos a Vesta, consagrada al hogar (el fuego alimentado con las ramas sagradas de Diana), y Jano en  la puerta, brindando la protección del hogar. Claramente la visión de la pareja divina, el padre y la madre, genius y juno, ¿Jano y Juno?
+
+Hay un mes consagrado a Juno (Junio), en el centro del año. Siendo Jupiter el dios principal del panteón romano, ¿es plausible que no tuviera un mes consagrado a él? Parece razonable pensar que Jano y Júpiter eran el mismo dios, y por eso que el primer mes estaba consagrado a él, el padre (lo que resuelve una inquietud que tenía, porque Juno tenía un mes, y no Júpiter).
+
+Hemos dado un largo paseo, por uno de esos misterios que se me presentaron cuando empecé a leer sobre estos dioses y mitos. Acompañados de dos autores exploramos explicaciones, y aprendimos cosas interesantes. Hay otras visiones, otros textos, como los de Ovidio.
+
+Alguien dijo por ahí que Jano tienen dos caras, y se le recuerda al principio del año, porque es el tiempo en que momento en que nos podemos detener para mirar al año que pasó, y prepararnos para los meses que vienen. Es otra visión, válida y enriquecedora, como todo lo que está en esos otros espacios, fuera del computador, lejos de wikipedia, en los espacios de la conversación, la lectura y la reflexión.
+
+![](/images/2011/01/jano.jpg)
