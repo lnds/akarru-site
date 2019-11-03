@@ -42,20 +42,15 @@ Los supersónicos era una de esas series que veía el futuro con optimismo, y co
 
 
 Cuál era la inspiración de los ilustradores de esta serie? Por una parte la arquitectura Googie de principios de los 1960, que inspiró edificios como el [Space Needle](http://en.wikipedia.org/wiki/Space_Needle) en Seattle, o este edificio en el aeropuerto de los Angeles:
-[![](http://www.lnds.net/blog/wp-content/uploads/2012/09/lax-la.jpg)](http://www.lnds.net/blog/wp-content/uploads/2012/09/lax-la.jpg)
 
-
+![](https://www.lnds.net/blog/wp-content/uploads/2012/09/lax-la.jpg)
 
 
 Compárenlo con esta  casa del episodio Astro Millonario:
 
 
 
-
-[![](http://www.lnds.net/blog/wp-content/uploads/2012/09/jetsons-googie.jpg)](http://www.lnds.net/blog/wp-content/uploads/2012/09/jetsons-googie.jpg)
-
-
-
+![](https://www.lnds.net/blog/wp-content/uploads/2012/09/jetsons-googie.jpg)
 
 
 

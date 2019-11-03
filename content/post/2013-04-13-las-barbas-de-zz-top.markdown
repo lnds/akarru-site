@@ -25,7 +25,7 @@ Tenemos la evidencia fotográfica de Billy Gibbons sin barba.
 
 La fotografía es de 1973. La banda se formó oficialmente en 1969. Originalmente estaba compuesta por Gibbons, el organista Lanier Greig, y el baterista Dan Mitchell. El grupo pasó por varias reconfiguraciones, manteniéndose Gibbons, a fines de 1969 se incorpora el baterista Frank Beard, y justo cuando firman un contrato con London Records, se retira el bajista Billy Etheridge, que venía reemplazando a Greig. En ese momento Beard presenta a Mitchell y hacen buenas migas con Gibbons. Se establece en ese momento el "power trio" más cool del rock, y no se ha separado desde entonces. Tampoco han cambiado de representante y productor, Bill Ham. Esta relación es una de las más largas del rock, con más de 42 años de antigüedad.
 
-Es fácil identificar a ZZ Top, para aquellos que no los conocen basta con colocar La Grange, probablemente su single más famoso,  del álbum "Tres Hombres" (así, en español). Es difícil quedar indiferente al [riff](http://es.wikipedia.org/wiki/Riff) de esa canción. 
+Es fácil identificar a ZZ Top, para aquellos que no los conocen basta con colocar La Grange, probablemente su single más famoso,  del álbum "Tres Hombres" (así, en español). Es difícil quedar indiferente al [riff](https://es.wikipedia.org/wiki/Riff) de esa canción. 
 
 {{<youtube -h2hox--bR8 >}}
 
@@ -45,7 +45,7 @@ Un hecho interesante, es que esta comedia incluye la canción de Dolly Parton "I
 
 Ningún adolescente en la década de 1980 que haya visto el video de Legs pudo quedar indiferente. Diez años después de "Tres Hombres", en 1983, ZZ Top edita "Eliminator", su octavo álbum de estudio,  el que los lleva a otro nivel de popularidad. 
 
-Fue en esa época en que conocí a ZZ Top y los escuché en forma consiente por primera vez, es probable que conociera La Grange y otros temas, pero no los identificaba con esta banda. El impacto fue obviamente Legs, el video que mostraba a unas bellas chicas de lindas piernas viajando en un precioso [Hot Rod](http://www.lnds.net/blog/2006/11/hot-rods.html) de un Ford 1934, de color rojo, que viajan arreglando lo que está mal. El Hot Rod lucía en la portada del álbum y desde entonces se le conoce como "Eliminator", y es propiedad de Gibbons.
+Fue en esa época en que conocí a ZZ Top y los escuché en forma consiente por primera vez, es probable que conociera La Grange y otros temas, pero no los identificaba con esta banda. El impacto fue obviamente Legs, el video que mostraba a unas bellas chicas de lindas piernas viajando en un precioso [Hot Rod](https://www.lnds.net/blog/2006/11/hot-rods.html) de un Ford 1934, de color rojo, que viajan arreglando lo que está mal. El Hot Rod lucía en la portada del álbum y desde entonces se le conoce como "Eliminator", y es propiedad de Gibbons.
 
 {% img center /blog/images/2013/04/eliminator.jpg %}
 

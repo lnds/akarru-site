@@ -39,17 +39,17 @@ Era habitual representar a la madre y al niño coronados, con Isis portando la c
 
 {{<figure src="/images/2012/12/stella-maris.jpg"   caption="Stella Maris" >}}
 
-La estrella de Isis era Sirio, la estrella de los navegantes, que llamaban [Stella Maris](http://es.wikipedia.org/wiki/Stella_Maris), estrella de los mares, el mismo nombre que hoy dan los navegantes a la Estrella Polar que está asociada a la Virgen María, quién  se encomiendan para el éxito en sus travesías marítimas.
+La estrella de Isis era Sirio, la estrella de los navegantes, que llamaban [Stella Maris](https://es.wikipedia.org/wiki/Stella_Maris), estrella de los mares, el mismo nombre que hoy dan los navegantes a la Estrella Polar que está asociada a la Virgen María, quién  se encomiendan para el éxito en sus travesías marítimas.
 
-La imagen de Stella Maris de la [Basílica de Nuestra Señora en Maastrich](http://en.wikipedia.org/wiki/Basilica_of_Our_Lady_(Maastricht)) en los Paises Bajos recuerda a la imagen de Isis y el niño coronados. Aunque en este caso el niño se encuentra abrazado a la Virgen, y no en posición de amamantar. coronada con el niño
+La imagen de Stella Maris de la [Basílica de Nuestra Señora en Maastrich](https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_(Maastricht)) en los Paises Bajos recuerda a la imagen de Isis y el niño coronados. Aunque en este caso el niño se encuentra abrazado a la Virgen, y no en posición de amamantar. coronada con el niño
 
 
 ## La Madre Astarté
 
 
-Más al oriente, entre los pueblos semíticos se adoraba a la gran Virgen Celeste o Diosa Celestial, una de cuyas formas era Astarté, conocida como [Ishtar](http://es.wikipedia.org/wiki/Ishtar) en Mesopotamia y que los hebreos denominaban despectivamente como Astoret o Ashthóreth, y que deriva en el hebreo en Esther. La que incluso en algún momento fue adorada por los Judios, pero cuyo culto fue condenado por Samuel: "Si ustedes se vuelven al Señor de todo corazón, dejen de lado a los dioses extraños y a las Astartés que hay en medio de ustedes; dirijan sus corazones hacia el Señor y sírvanlo sólo a él. Así el Señor los librará del poder de los filisteos.", así que hay en el abandono al culto de Astarté un cálculo militar, era la forma de derrotar a los enemigos.
+Más al oriente, entre los pueblos semíticos se adoraba a la gran Virgen Celeste o Diosa Celestial, una de cuyas formas era Astarté, conocida como [Ishtar](https://es.wikipedia.org/wiki/Ishtar) en Mesopotamia y que los hebreos denominaban despectivamente como Astoret o Ashthóreth, y que deriva en el hebreo en Esther. La que incluso en algún momento fue adorada por los Judios, pero cuyo culto fue condenado por Samuel: "Si ustedes se vuelven al Señor de todo corazón, dejen de lado a los dioses extraños y a las Astartés que hay en medio de ustedes; dirijan sus corazones hacia el Señor y sírvanlo sólo a él. Así el Señor los librará del poder de los filisteos.", así que hay en el abandono al culto de Astarté un cálculo militar, era la forma de derrotar a los enemigos.
 
-Los sumerios la identificaban con [Innana](http://es.wikipedia.org/wiki/Inanna), la diosa del amor, la naturaleza y la fertilidad. Y para los griegos era Démeter y a veces Afrodita. Siempre se asociaba su imagen a Venus, el Lucero del Atardecer. Acá la vemos amamantando a Tammuz, una de las imágenes de la Madona más antiguas de la humanidad:
+Los sumerios la identificaban con [Innana](https://es.wikipedia.org/wiki/Inanna), la diosa del amor, la naturaleza y la fertilidad. Y para los griegos era Démeter y a veces Afrodita. Siempre se asociaba su imagen a Venus, el Lucero del Atardecer. Acá la vemos amamantando a Tammuz, una de las imágenes de la Madona más antiguas de la humanidad:
 
 {{<figure src="/images/2012/12/madre-terracota.jpg" caption="Innana amamantando a Tamuz" >}}
 
