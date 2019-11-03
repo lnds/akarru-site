@@ -28,7 +28,7 @@ Esa última también era la intención de La Saturnalia, un antiguo festival rom
 
 ![](/images/2010/12/saturnalia_08.jpg)
 
-Durante la saturnalia se declaraba feriado en la escuela, se instalab un mercado especializado, la _Sigilaria, _ donde se vendían figuras conmemorativas, y donde la gente acudía a comprar regalos, los que se entregaban en estas fechas.
+Durante la saturnalia se declaraba feriado en la escuela, se instalab un mercado especializado, la _Sigilaria_, donde se vendían figuras conmemorativas, y donde la gente acudía a comprar regalos, los que se entregaban en estas fechas.
 
 Originalmente era sólo un día, pero con el tiempo fue extendiéndose hasta llegar a durar una semana, y se le sumaron banquetes y orgías públicas.
 
