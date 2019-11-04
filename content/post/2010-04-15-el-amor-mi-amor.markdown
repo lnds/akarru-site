@@ -43,7 +43,7 @@ _«El amor es la extremadamente dificil realización de que algún otro, distint
 
 ![](/images/2010/04/William_IX_of_Aquitaine_-_BN_MS_fr_12473.jpg) 
 
-Leonor era nieta del primer trovador, [Guillermo de Poitiers](http://es.wikipedia.org/wiki/Guillermo_de_Poitiers). Los trovadores fueron los que introdujeron el concepto del amor cortés. El tema importante, ya no era el matrimonio, en esta época lo que interesa es encontrar el verdadero amor, y eso no tiene nada que ver con el matrimonio.
+Leonor era nieta del primer trovador, [Guillermo de Poitiers](https://es.wikipedia.org/wiki/Guillermo_de_Poitiers). Los trovadores fueron los que introdujeron el concepto del amor cortés. El tema importante, ya no era el matrimonio, en esta época lo que interesa es encontrar el verdadero amor, y eso no tiene nada que ver con el matrimonio.
 
 En los tiempos de la corte de Leonor, habían debates, sobre que significaba enamorarse, sobre la sicología del amor.
 
@@ -53,7 +53,9 @@ En los tiempos de la corte de Leonor, habían debates, sobre que significaba ena
 
 Una cosa importante del amor cortés, es que la dama debe asegurarse de que el pretendiente es un corazón gentil, y no sólo un tipo lascivo. Si el tipo es bueno con la espada, es enviado a custodiar un puente, si es bueno con la pluma se le mandará a escribir un poema, ese tipo de cosas son las pruebas que las damas imponen a sus amados.
 
-Son tiempos en que empieza el romance. Si la dama encuentra que el pretendiente tiene un corazón gentil y no lascivo, puede concederle su gracia, el merci, su merced, y talvez ahí el caballero pueda llegar a tener el privilegio de besarla.![](http://www.akarru.org/blog/wp-content/uploads/2010/04/180px-Tristan_and_Isolde_by_Louis_Rhead-150x150.jpg)
+Son tiempos en que empieza el romance. Si la dama encuentra que el pretendiente tiene un corazón gentil y no lascivo, puede concederle su gracia, el merci, su merced, y talvez ahí el caballero pueda llegar a tener el privilegio de besarla.
+
+![](/images/2010/04/180px-Tristan_and_Isolde_by_Louis_Rhead-150x150.jpg)
 
 La cortesía y la caballerosidad, que tanto agradan a mi esposa de las novelas de Jane Austen, vienen de ese mundo, de ese cambio de la concepción del amor que se dió en tiempos de Leonor de Aquitania y sus cortes del amor.
 

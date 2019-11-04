@@ -24,26 +24,32 @@ tags:
 
 
 
-> _Porque la muerte provoca cambios más importan­tes de lo que comúnmente se cree. Aunque, en general, es el espíritu el que, tras desaparecer, suele volver __y __es en ocasiones contemplado por los vivos (encarnado en el mismo cuerpo que poseía en vida), también ha ocurrido que el cuerpo haya andado errante sin el espíritu. Quienes han sobre­vivido a tales encuentros manifiestan que esas macabras criaturas carecen de todo sentimiento natural, y de su recuerdo, a excepción del odio. Asimismo, se sabe de algunos espíritus que, ha­biendo sido benignos en vida, se transforman en malignos después de la muerte. -- "La Muerte de Halpin Frayser", por Ambrose Bierce, 1893_ _ _
+> _Porque la muerte provoca cambios más importan­tes de lo que comúnmente se cree. Aunque, en general, es el espíritu el que, tras desaparecer, suele volver y es en ocasiones contemplado por los vivos (encarnado en el mismo cuerpo que poseía en vida), también ha ocurrido que el cuerpo haya andado errante sin el espíritu. Quienes han sobre­vivido a tales encuentros manifiestan que esas macabras criaturas carecen de todo sentimiento natural, y de su recuerdo, a excepción del odio. Asimismo, se sabe de algunos espíritus que, ha­biendo sido benignos en vida, se transforman en malignos después de la muerte. -- "La Muerte de Halpin Frayser", por Ambrose Bierce, 1893_
 
 
-Al parecer en Haití la creación de zombis se encuentra prohibida desde 1835. El [artículo 246 del código penal](http://www.alliance-haiti.com/culture/vaudou/international.htm) haitiano califica como intento de asesinato la administración de substancias que producen un periodo de letargo prolongado, sin causar la muerte.  Recuerdo que siendo adolescente leí la historia del zombie más famoso de Haití.
+Al parecer en Haití la creación de zombis se encuentra prohibida desde 1835. El [artículo 246 del código penal](https://www.alliance-haiti.com/culture/vaudou/international.htm) haitiano califica como intento de asesinato la administración de substancias que producen un periodo de letargo prolongado, sin causar la muerte.  Recuerdo que siendo adolescente leí la historia del zombie más famoso de Haití.
 
-[![](http://www.akarru.org/blog/wp-content/uploads/2010/11/Clairvius_Narcisse_1-268x300.jpg)](http://www.akarru.org/blog/wp-content/uploads/2010/11/Clairvius_Narcisse_1.jpg)El hombre de la fotografía es Clairvius Narcisse, delante de la que fue su tumba. Siendo joven Narcisse ingresó al hopital Albert Schweitzer en Puerto Prícipe, muy enfermo, parecía sufrir de malnutrición, fiebre alta, y dolores en todo el cuerpo. Su condición se deterioró rápidamente, desarrollando problemas respiratorios, y cayendo finalmente en coma. Dos días después, el 2 de mayo de 1962, fue declarado muerto por los dos médicos que lo atendían. Su hermana Angelina identificó el cuerpo, y su otra hermana Marie Claire autenticó el certificado de defunción con su huella digital. Al otro día fue sepultado en un pequeño cementerio en la villa de I’Estere.  Dieciocho años más tarde, en 1980, un hombre de mirada extraviada, y que deambulaba por el mercado de la villa se presentó ante Angelina y se identificó como su hermano Clarivius. Su familia y varios habitantes de la villa lo reconocieron inmediatamente, y él les contó la fantástica historia de como fue extraido de su tumba, le dieron a beber una substancia que le alteraba los sentidos, y fue llevado a servir como esclavo en una plantación de azucar. Aunque sorprendidos, los que escucharon su historia la aceptaron sin problemas, porque creían en el poder del Vudú, y en la realidad del Zombi.
+![](/images/2010/11/Clairvius_Narcisse_1.jpg)
+
+El hombre de la fotografía es Clairvius Narcisse, delante de la que fue su tumba. Siendo joven Narcisse ingresó al hopital Albert Schweitzer en Puerto Prícipe, muy enfermo, parecía sufrir de malnutrición, fiebre alta, y dolores en todo el cuerpo. Su condición se deterioró rápidamente, desarrollando problemas respiratorios, y cayendo finalmente en coma. Dos días después, el 2 de mayo de 1962, fue declarado muerto por los dos médicos que lo atendían. Su hermana Angelina identificó el cuerpo, y su otra hermana Marie Claire autenticó el certificado de defunción con su huella digital. Al otro día fue sepultado en un pequeño cementerio en la villa de I’Estere.  Dieciocho años más tarde, en 1980, un hombre de mirada extraviada, y que deambulaba por el mercado de la villa se presentó ante Angelina y se identificó como su hermano Clarivius. Su familia y varios habitantes de la villa lo reconocieron inmediatamente, y él les contó la fantástica historia de como fue extraido de su tumba, le dieron a beber una substancia que le alteraba los sentidos, y fue llevado a servir como esclavo en una plantación de azucar. Aunque sorprendidos, los que escucharon su historia la aceptaron sin problemas, porque creían en el poder del Vudú, y en la realidad del Zombi.
 
 
 > Zombie
-Another head hangs lowly,
-Child is slowly taken.
-And the violence caused such silence,
-Who are we mistaken?
+
+> Another head hangs lowly,
+
+> Child is slowly taken.
+
+> And the violence caused such silence,
+
+> Who are we mistaken?
 
 
 En comparación con el vampiro, que es otro no muerto, o el hombre lobo, que sólo atacan a un grupo reducido de víctimas, el zombi es una amenaza más global, cuando pensamos en zombis, en muertos vivientes, nos imaginamos hordas de estos seres, expandiendo su mal por todo el mundo, una verdadera pandemia, el fin de la raza humana.
 
-**El mito del zombi**
+## El mito del zombi
 
-[![](http://www.akarru.org/blog/wp-content/uploads/2010/11/Resurreccion-244x300.jpg)](http://www.akarru.org/blog/wp-content/uploads/2010/11/Resurreccion.jpg)
+![](/images/2010/11/Resurreccion.jpg)
 
 Pienso en el concepto oximorónico del muerto viviente. ¿Qué son? ¡Cuerpos sin vida, pero caminando! ¿Cómo puede ser eso? Así que me propongo buscar las fuentes que alimentan este mito.
 
@@ -53,9 +59,9 @@ El chiste de considerar a Lázaro como el primer zombi viene fácilmente a la me
 
 Pero los muertos vivientes de las películas de terror vagan por el mundo en busca de carne fresca humana, o de cerebros para comer. ¿De donde viene este segundo elemento?
 
-El Gul, Ghoul en inglés, الغول en árabe, es un demonio necrófago que aparece  en varios episodios de Las Mil y Una Noches. Está en _ra's al-ghūl, la cabeza del ogro,_ el nombre que los árabes dan a la estrella Algol, en la constelación de Perseo, y representa a [la cabeza de la gorgona medusa](http://www.akarru.org/blog/2010/04/perseo-medusa-y-pegaso/). Para el fan de Batman, el nombre [Ra's al-ghul](http://en.wikipedia.org/wiki/Ra's_al_Ghul) es conocido, una suerte de eco terrorista que vuelve una y otra vez de la muerte gracias al uso del Pozo de Lázaro, que le permite regenerar su cuerpo. Los planes de este villano contemplan la extinción de gran parte de la raza humana mediante algún tipo de arma biológica (otro elemento importante en la conformación del mito que nos ocupa).
+El Gul, Ghoul en inglés, الغول en árabe, es un demonio necrófago que aparece  en varios episodios de Las Mil y Una Noches. Está en _ra's al-ghūl, la cabeza del ogro,_ el nombre que los árabes dan a la estrella Algol, en la constelación de Perseo, y representa a [la cabeza de la gorgona medusa](https://www.akarru.com/blog/2010/04/perseo-medusa-y-pegaso/). Para el fan de Batman, el nombre [Ra's al-ghul](https://en.wikipedia.org/wiki/Ra's_al_Ghul) es conocido, una suerte de eco terrorista que vuelve una y otra vez de la muerte gracias al uso del Pozo de Lázaro, que le permite regenerar su cuerpo. Los planes de este villano contemplan la extinción de gran parte de la raza humana mediante algún tipo de arma biológica (otro elemento importante en la conformación del mito que nos ocupa).
 
-[![](http://www.akarru.org/blog/wp-content/uploads/2010/11/200px-Night_of_the_Living_Dead_affiche.jpg)](http://www.akarru.org/blog/wp-content/uploads/2010/11/200px-Night_of_the_Living_Dead_affiche.jpg)
+![](/images/2010/11/200px-Night_of_the_Living_Dead_affiche.jpg)
 
 El Gul ingresa en la literatura occidental de la mano de Edgard Allan Poe, y principalmente de H.P. Lovecraft. Para Lovecraft, quien plasmaba su misantropía en sus relatos,  los guls corresponden a una raza subterránea que sale de noche a comer cadáveres, alguna vez fueron humanos, pero esta dieta y hábitos los ha convertido en horribles humanoides bestiales. Si me permiten, la visión de Lovecraft es similar a la de los Morlocks, de H.G. Wells, una raza futura de humanos que crían y devoran a otra, la de los Eloi. Las referencias a las luchas de clases, y temores de la aristocracia de fines del siglo XIX y comienzos del XX, son evidentes en ambas figuras.
 
@@ -69,36 +75,45 @@ El director de esta película, George Romero, habla  sobre su inspiración e in
 
 Y ahí está la clave del mito, de modo que el origen de esta infección, no es relevante, teorías hay muchas, un virus, una enfermedad, un arma biológica, un experimento fallido, una maldición, magia negra, un ataque  extraterrestre, o simplemente sucede que el infierno ya se llenó y no acepta más almas (mi favorita).
 
-**El apocalípsis zombi**
+## El apocalípsis zombi
 
-[![](http://www.akarru.org/blog/wp-content/uploads/2010/11/omega-man.png)](http://www.akarru.org/blog/wp-content/uploads/2010/11/omega-man.png)En _Soy Leyenda, _el mundo ha sido devastado por un virus que convierte a todos los humanos en vampiros. Hay sólo un hombre, el último hombre, Omega Man en una versión fílmica, que tiene el antídoto, y que se resiste a ser como los demás. Los combate solitario desde su departamento. Déjenme vivir aquí, sólo. El ermitaño definitivo, el que se resiste a unirse a la revolución que cambió el muindo.
+![](/images/2010/11/omega-man.png)
 
-Cuando era chico vi la película, y me impactó mucho. Recuerdo particularmente, no sé por qué, una escena en que [Charlton Heston](http://www.lnds.net/blog/2008/04/charlton-heston.html) va a un cine a mirar Woodstock, no hay nadie más que él y sus armas. Todo tipo de armas, metralletas, y rifles de alta precisión, con focos infrarrojos para dispararle a los vampiros de noche. Probablemente después de esta película Heston desarrolló su posición tan radical sobre la posesión de las armas, o quizás empezó su manifiesto reaccionario con este filme.
+En _Soy Leyenda_, el mundo ha sido devastado por un virus que convierte a todos los humanos en vampiros. Hay sólo un hombre, el último hombre, Omega Man en una versión fílmica, que tiene el antídoto, y que se resiste a ser como los demás. Los combate solitario desde su departamento. Déjenme vivir aquí, sólo. El ermitaño definitivo, el que se resiste a unirse a la revolución que cambió el muindo.
 
-En la novela de ciencia ficción de 1951, _El Día de los Trífido_s, de John Whyndham, no hay zombis, ni vampiros, los que destruyen la civilización totalmente son plantas carnívoras, que tienen la capacidad de desplazarse lentamente. El apocalípsis empieza con un evento global, un fenómeno astronómico genera una gran luminosidad en el cielo, que deja ciegos a la mayoría de la humanidad. El protagonista ha estado aislado de estos hechos porque yace en un hospital cuando se desata el caos (algo que se repite en otras historias de zombis, como _28 días_, o la reciente serie de TV _Walking Dead_, este recurso viene de esta novela). Sin control, los trífidos, cuyo aceite es usado como bio combustible, se escapan de las granjas y empiezan a cazar a los humanos ciegos y desorganizados. El cambio es definitivo, los que no han quedado ciegos se organizan feudalmente, pero finalmente sólo pueden sobrevivir unos pocos que se refugian en una isla, protegidos por el mar.
+Cuando era chico vi la película, y me impactó mucho. Recuerdo particularmente, no sé por qué, una escena en que [Charlton Heston](https://www.lnds.net/blog/lnds/2008/4/6/charlton-heston) va a un cine a mirar Woodstock, no hay nadie más que él y sus armas. Todo tipo de armas, metralletas, y rifles de alta precisión, con focos infrarrojos para dispararle a los vampiros de noche. Probablemente después de esta película Heston desarrolló su posición tan radical sobre la posesión de las armas, o quizás empezó su manifiesto reaccionario con este filme.
+
+En la novela de ciencia ficción de 1951, _El Día de los Trífidos_, de John Whyndham, no hay zombis, ni vampiros, los que destruyen la civilización totalmente son plantas carnívoras, que tienen la capacidad de desplazarse lentamente. El apocalípsis empieza con un evento global, un fenómeno astronómico genera una gran luminosidad en el cielo, que deja ciegos a la mayoría de la humanidad. El protagonista ha estado aislado de estos hechos porque yace en un hospital cuando se desata el caos (algo que se repite en otras historias de zombis, como _28 días_, o la reciente serie de TV _Walking Dead_, este recurso viene de esta novela). Sin control, los trífidos, cuyo aceite es usado como bio combustible, se escapan de las granjas y empiezan a cazar a los humanos ciegos y desorganizados. El cambio es definitivo, los que no han quedado ciegos se organizan feudalmente, pero finalmente sólo pueden sobrevivir unos pocos que se refugian en una isla, protegidos por el mar.
 
 Todos estos monstruos (muertos vivientes, o plantas carnívoras) avanzan lenta, pero inexorablemente. La civilización colapsa totalmente, y sólo unos pocos humanos se resisten.
 
-En 2003 Max Brooks publica [Zombi - Guía de Sobreviviencia](http://es.wikipedia.org/wiki/Zombi_-_Gu%C3%ADa_de_superviviencia), un best seller del género. El libro se plantea como una falsa guía de sobrevivencia, asumiendo que los zombis son una realidad, la guía incluye una relación de supuestos brotes zombis en la historia. Y como si este mundo no fuera suficientemente loco, hay personas  que parecen tomarse  en serio esto del apocalípsis zombi, y se dedican a construir armas, y material para sobrevivir, o a formar escuadrones para hacer frente a esta eventualidad  (si están curiosos, les dejo algunos ejemplos:  [http://zombietools.net/](http://zombietools.net/) y [http://zombiehunters.org/](http://zombiehunters.org/)).
+En 2003 Max Brooks publica [Zombi - Guía de Sobreviviencia](https://es.wikipedia.org/wiki/Zombi_-_Gu%C3%ADa_de_superviviencia), un best seller del género. El libro se plantea como una falsa guía de sobrevivencia, asumiendo que los zombis son una realidad, la guía incluye una relación de supuestos brotes zombis en la historia. Y como si este mundo no fuera suficientemente loco, hay personas  que parecen tomarse  en serio esto del apocalípsis zombi, y se dedican a construir armas, y material para sobrevivir, o a formar escuadrones para hacer frente a esta eventualidad  (si están curiosos, les dejo algunos ejemplos:  [http://zombietools.net/](https://zombietools.net/) y [http://zombiehunters.org/](https://zombiehunters.org/)).
 
 ¿Existe la posibilidad? Hay científicos que encentran razones plausibles, como neurotoxinas , alguna enfermedad viral, o algún parásito en el cerebro (hay un parásito, la toxoplasma, que al entrar en el cerebro de la rata la convierte en un verdadero zombi, reprogramando su instinto visceral para evitar al gato,  logrando que sea devorada por este. El objetivo de la toxoplasma es llegar al intestino del gato, para comenzar la segunda etapa de su ciclo, se estima que la toxoplasma está en la mitad de la población humana, pero provoca enfermedad en casos donde el sistema inmunológico está muy comprometido, como en el SIDA). Y aunque la posibilidad existe, lo preocupante es la velocidad de expansión de la infección.
 
-**El mensaje del zombi**
+## El mensaje del zombi
 
 
 > In your head, in your head,
-Zombie, zombie, zombie,
-Hey, hey, hey. What's in your head,
-In your head,
-Zombie, zombie, zombie?
-Hey, hey, hey, hey, oh, dou, dou, dou, dou, dou...
+
+> Zombie, zombie, zombie,
+
+> Hey, hey, hey. What's in your head,
+
+> In your head,
+
+> Zombie, zombie, zombie?
+
+> Hey, hey, hey, hey, oh, dou, dou, dou, dou, dou...
 
 
 ¿Qué hay en tu cabeza, zombie? [preguntan los Cranberries](http://www.youtube.com/watch?v=357h_tqNX60).
 
 ¿Qué hay en tu cabeza?
 
-[![](http://www.akarru.org/blog/wp-content/uploads/2010/11/220px-Zombie_haiti_ill_artlibre_jnl-217x300.png)](http://www.akarru.org/blog/wp-content/uploads/2010/11/220px-Zombie_haiti_ill_artlibre_jnl.png)Como dice Joseph Campbell, los sueños son los mitos individuales, y los mitos son los sueños de la sociedad. Por eso yo digo que el zombi es un mito contemporáneo importante. Un mito que refleja nuestros temores como individuos ante la sociedad.
+![](/images/2010/11/220px-Zombie_haiti_ill_artlibre_jnl.png)
+
+Como dice Joseph Campbell, los sueños son los mitos individuales, y los mitos son los sueños de la sociedad. Por eso yo digo que el zombi es un mito contemporáneo importante. Un mito que refleja nuestros temores como individuos ante la sociedad.
 
 El apocalípsis zombi es nuestra preocupación porque el mundo ha cambiado. Es la representación de la estupidización de la sociedad, del hombre masa. Es una revolución que quizás ya empezó, quizás ya estamos rodeados de zombis.
 

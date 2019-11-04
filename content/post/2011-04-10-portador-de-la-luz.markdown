@@ -32,7 +32,7 @@ tags:
 
 {{<figure class="fr" src="/images/2011/04/MascaraRitual-169x300.jpg" caption="Máscara Ritual" >}}
 
-Joseph Campbell [nos cuenta](http://www.youtube.com/watch?v=aGx4IlppSgU) que en los antiguos rituales de iniciación, el niño se enfrenta a un hombre adulto que lleva una máscara ritual. Durante toda su corta vida se le ha explicado que esas máscaras representan a los dioses, y ahora, en el interior de una cueva, debe enfrentarse a uno de ellos, representado por un guerrero (probablemente su padre) que porta esta máscara con todo el poder divino. Y el chico debe luchar con Dios hasta derrotarlo.  Eventualmente el guerrero se dejará vencer y en ese momento se quitará  la máscara y la pondrá en el rostro del muchacho,  con este acto mágico el niño se hará hombre. El niño debe morir para resucitar como adulto a través de esta lucha con Dios, para entender el sentido del poder sagrado. El joven ha vivido durante catorce años en un estado de dependencia, de protección y sumisión a sus padres, bajo la autoridad de los adultos. Son ellos los que han decidido por él. Es este paso, este ritual de enfrentarse a la máxima autoridad, de luchar contra Dios, el que nos revela el tremendo poder de la libertad de la vida adulta, pasamos a un estadio de mayor responsabilidad, y autodeterminación. Este es el sentido de esos antiguos rituales con máscaras de los habitantes de Tierra del Fuego. Esta es la razón por la que tanto nos aterran estas máscaras, porque son mágicas, poderosas, símbolos atávicos en el interior de nuestro subconsciente, símbolos de poder y misterio.
+Joseph Campbell [nos cuenta](https://www.youtube.com/watch?v=aGx4IlppSgU) que en los antiguos rituales de iniciación, el niño se enfrenta a un hombre adulto que lleva una máscara ritual. Durante toda su corta vida se le ha explicado que esas máscaras representan a los dioses, y ahora, en el interior de una cueva, debe enfrentarse a uno de ellos, representado por un guerrero (probablemente su padre) que porta esta máscara con todo el poder divino. Y el chico debe luchar con Dios hasta derrotarlo.  Eventualmente el guerrero se dejará vencer y en ese momento se quitará  la máscara y la pondrá en el rostro del muchacho,  con este acto mágico el niño se hará hombre. El niño debe morir para resucitar como adulto a través de esta lucha con Dios, para entender el sentido del poder sagrado. El joven ha vivido durante catorce años en un estado de dependencia, de protección y sumisión a sus padres, bajo la autoridad de los adultos. Son ellos los que han decidido por él. Es este paso, este ritual de enfrentarse a la máxima autoridad, de luchar contra Dios, el que nos revela el tremendo poder de la libertad de la vida adulta, pasamos a un estadio de mayor responsabilidad, y autodeterminación. Este es el sentido de esos antiguos rituales con máscaras de los habitantes de Tierra del Fuego. Esta es la razón por la que tanto nos aterran estas máscaras, porque son mágicas, poderosas, símbolos atávicos en el interior de nuestro subconsciente, símbolos de poder y misterio.
 
 ## Lucifer 
 
@@ -42,7 +42,7 @@ Eosfero era el hijo de Astreo, el padre de las estrellas y los planetas, el Tit�
 
 {% img center /blog/wp-content/uploads/2011/04/Gigante.png %}
 
-La relación de Lúcifer con las estrellas es antigua y conocida. En los escritos satanistas se habla de Algol, la puerta al caos que crea el mundo (Algol, que viene de Al-goul, [la cabeza de Medusa](http://www.akarru.org/blog/2010/04/perseo-medusa-y-pegaso/) de [la que hemos hablado antes](http://www.akarru.org/blog/2010/11/un-mundo-de-zombis/)), Lúcifer es la primera de las estrellas en el cielo. Para los antiguos pueblos semitas las estrellas representaban a los ángeles.
+La relación de Lúcifer con las estrellas es antigua y conocida. En los escritos satanistas se habla de Algol, la puerta al caos que crea el mundo (Algol, que viene de Al-goul, [la cabeza de Medusa](http://www.akarru.com/blog/2010/04/perseo-medusa-y-pegaso/) de [la que hemos hablado antes](http://www.akarru.com/blog/2010/11/un-mundo-de-zombis/)), Lúcifer es la primera de las estrellas en el cielo. Para los antiguos pueblos semitas las estrellas representaban a los ángeles.
 
 "¡Cómo caíste del cielo, oh Lucero, hijo de la Aurora!" dice en el capítulo 14, versículo 12, del libro de Isaías en el Antiguo Testamento.
 
@@ -107,7 +107,7 @@ Otros análogo germánico de Prometeo es Odin, quien también se sacrifica para 
 
 En algunos escritos  esotéricos, y según algunos, en los escritos masónicos más ocultos (principalmente en la historia de Hiram Abiff), se nos cuenta que al principio habían dos dioses. Uno era Adonai, el dios de la Biblia, y el otro era Iblis (Samael, Lucifer, Prometeo, Baphomet). Según algunas tradiciones talmúdicas Iblis sedujo a Eva, Cain sería fruto de la unión de Iblis y Eva, así como Abel hijo Adan y Eva. Adán sentirá desprecio por Caín, y este, cansado de este trato injusto se rebelará, y matará a su hermano Abel.
 
-Helena Petrovna Blavatsky, la famosa sacerdotisa y creadora de la [orden teosófica](http://www.sociedadteosofica.es/) sostenía que: "Lucifer es el logos...la serpiente, el sabio. Es Satanás quien es el dios de nuestro planeta y el único dios. La Virgen celestial la cual viene siendo la Madre de los dioses y los demonios a una y al mismo tiempo, por que ella es la deidad benefactora siempre cariñosa...pero en la antigüedad y en la realidad Lucifer o Luciferius es su nombre. Lucifer es la divina y terrenal luz, " el espiritu santo" y "Satán" a una y al mismo tiempo."
+Helena Petrovna Blavatsky, la famosa sacerdotisa y creadora de la [orden teosófica](https://www.sociedadteosofica.es/) sostenía que: "Lucifer es el logos...la serpiente, el sabio. Es Satanás quien es el dios de nuestro planeta y el único dios. La Virgen celestial la cual viene siendo la Madre de los dioses y los demonios a una y al mismo tiempo, por que ella es la deidad benefactora siempre cariñosa...pero en la antigüedad y en la realidad Lucifer o Luciferius es su nombre. Lucifer es la divina y terrenal luz, " el espiritu santo" y "Satán" a una y al mismo tiempo."
 
 Es sugerente el hecho de que se acusara a los templarios de adorar a Satán en la forma de Baphomet. Baphomet es un dios pagano, hermafrodita, con cabeza de macho cabrío y que luce en la cabeza el pentáculo invertido, símbolo tradicional en los ritos satanistas.
 
@@ -117,7 +117,7 @@ Taus es un palabra que está relacionada con Zeus, y Theos, de la cual viene nue
 
 ## El símbolo del mal
 
-En algún momento Lucifer, o Luzbel pasa a ser identificado con Satán, Shaitan, el adversario. Pero para algunos Satán es otro ser, tan antiguo como Lucifer, un verdadero demonio, no un ángel caido. Pero la existencia de un demonio obligaría a explicar su origen, y cómo Dios podría haber creado una criatura malvada. De ahí que se asuma que los demonios son ángeles o seres espirituales que se han alejado de Dios, y con esto se han corrompido. _ "Perfecto eras en todos tus caminos desde el día que fuiste creado, hasta que se halló en ti maldad."_, leemos en el libro de Ezequiel.
+En algún momento Lucifer, o Luzbel pasa a ser identificado con Satán, Shaitan, el adversario. Pero para algunos Satán es otro ser, tan antiguo como Lucifer, un verdadero demonio, no un ángel caido. Pero la existencia de un demonio obligaría a explicar su origen, y cómo Dios podría haber creado una criatura malvada. De ahí que se asuma que los demonios son ángeles o seres espirituales que se han alejado de Dios, y con esto se han corrompido. _"Perfecto eras en todos tus caminos desde el día que fuiste creado, hasta que se halló en ti maldad."_, leemos en el libro de Ezequiel.
 
 Satán era perfecto, y al igual que el hombre, tenía libre albedrío, y fue su arrogancia la que lo condenó. El quería ser más que el hombre. La caída y su plan para arruinar el plan de Dios con el ser humano es el tema central del "Paraíso Perdido" de John Milton:
 
@@ -157,7 +157,7 @@ Y reaparece la dualidad de los dos dioses eternos que se enfrentan, Iblis y Adon
 
 En la primera epístola de Juan se nos dice que quien es justo es de Dios, en cambio el que comete pecado es del diablo.
 
-La soberbia, confundida con la arrogancia, pasa a convertirse en la visión cristiana en un pecado. El dolor pasa a ser exaltado, y la obediencia ciega a la autoridad absoluta de Dios se constituye en la máxima virtud. Sabemos que los griegos [pensaban distinto del orgullo](http://www.akarru.org/blog/2010/12/arete/), y amaban la libertad y el cuestionamiento de la realidad. La verdad que se impone es la verdad semítica, Dios es la Verdad, y ante esta sólo cabe postrarse. Cuestionar esta verdad es ser soberbio, y por tanto adorador de Satanás.
+La soberbia, confundida con la arrogancia, pasa a convertirse en la visión cristiana en un pecado. El dolor pasa a ser exaltado, y la obediencia ciega a la autoridad absoluta de Dios se constituye en la máxima virtud. Sabemos que los griegos [pensaban distinto del orgullo](http://www.akarru.com/blog/2010/12/arete/), y amaban la libertad y el cuestionamiento de la realidad. La verdad que se impone es la verdad semítica, Dios es la Verdad, y ante esta sólo cabe postrarse. Cuestionar esta verdad es ser soberbio, y por tanto adorador de Satanás.
 
 ## El pecado y la inversión de los valores
 
@@ -202,9 +202,9 @@ No es eso lo que espero para mí, ni tampoco para mis hijos. Yo espero que ellos
 
 ### Fuentes:
 
-Joseph Campbell se rie de esta necesidad académica de la autoridad en [este video](http://www.youtube.com/watch?v=aGx4IlppSgU) sobre pasar a ser adulto, de donde saqué la primera parte de este artículo. Pero hay gente que se desespera si no hay fuentes, así que pondré algunas.
+Joseph Campbell se rie de esta necesidad académica de la autoridad en [este video](https://www.youtube.com/watch?v=aGx4IlppSgU) sobre pasar a ser adulto, de donde saqué la primera parte de este artículo. Pero hay gente que se desespera si no hay fuentes, así que pondré algunas.
 
-[1] Este artículo de Celso Luján de la Universidad de Alicante: De Prometeo a Lucifer: la represión del relativismo y el establecimiento del Amor como criterio absoluto. [Enlace](http://rua.ua.es/dspace/bitstream/10045/14151/1/De%20Prometeo%20a%20Lucifer.pdf)
+[1] Este artículo de Celso Luján de la Universidad de Alicante: De Prometeo a Lucifer: la represión del relativismo y el establecimiento del Amor como criterio absoluto. [Enlace](https://rua.ua.es/dspace/bitstream/10045/14151/1/De%20Prometeo%20a%20Lucifer.pdf)
 
 [2] La Teogonía de Hesiodo, [esta traducción](/images/2011/04/Teogonia.pdf) que he dejado en este mismo blog.
 
@@ -212,18 +212,18 @@ Joseph Campbell se rie de esta necesidad académica de la autoridad en [este vid
 [3] El AntiCristo de Fredich Nietzche, también disponible en [esta traducción](/images/2011/04/el-anticristo.pdf) en este mismo blog.
 
 
-[4] Los textos de la biblia son tomados desde Wikipedia y del sitio [Bible Gateway](http://www.biblegateway.com/)
+[4] Los textos de la biblia son tomados desde Wikipedia y del sitio [Bible Gateway](https://www.biblegateway.com/)
 
-[5] El texto de Bakunin es de [Dios y El Estado](http://www.feedbooks.com/book/4759/dios-y-el-estado)
-
-
-[6] El mito de [Melek Tau](http://en.wikipedia.org/wiki/Melek_Taus)s y de [Loki](http://es.wikipedia.org/wiki/Loki) tomados de Wikipedia.
+[5] El texto de Bakunin es de [Dios y El Estado](https://www.feedbooks.com/book/4759/dios-y-el-estado)
 
 
-[7] La cita a M. Blavatsky es de su libro "La Doctrina Secreta, síntesis de ciencia, religión y filosofía" segundo volumen. Disponible a través de la Sociedad Teosófica Española en [este enlace](http://www.sociedadteosofica.es/Libros/HPB_LaDoctrinaSecreta_v2.pdf).
+[6] El mito de [Melek Tau](https://en.wikipedia.org/wiki/Melek_Taus)s y de [Loki](http://es.wikipedia.org/wiki/Loki) tomados de Wikipedia.
 
 
-[8] El texto de Campbell es una traducción libre tomada de su libro [Myths to Live By](http://www.amazon.com/gp/product/0140194614/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0140194614)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0140194614).
+[7] La cita a M. Blavatsky es de su libro "La Doctrina Secreta, síntesis de ciencia, religión y filosofía" segundo volumen. Disponible a través de la Sociedad Teosófica Española en [este enlace](https://www.sociedadteosofica.es/Libros/HPB_LaDoctrinaSecreta_v2.pdf).
 
 
-Todas las imágenes en su mayor parte son de Wikipedia, salvo la máscara que fue tomada desde este[ sitio](http://aeshowroom.com/modules/com_users/?ritual-mask-258). Y la imagen de los Kaweskar de [este blog](http://hapticas.blogspot.com/2010/09/kaweskar.html).
+[8] El texto de Campbell es una traducción libre tomada de su libro [Myths to Live By](https://www.amazon.com/gp/product/0140194614/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0140194614)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0140194614).
+
+
+Todas las imágenes en su mayor parte son de Wikipedia, salvo la máscara que fue tomada desde este[ sitio](https://aeshowroom.com/modules/com_users/?ritual-mask-258). Y la imagen de los Kaweskar de [este blog](http://hapticas.blogspot.com/2010/09/kaweskar.html).

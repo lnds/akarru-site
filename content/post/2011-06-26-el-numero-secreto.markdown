@@ -64,7 +64,9 @@ En este punto, Tomlin decidió que era el momento de jugar su carta de triunfo.
 
 --¿Qué es eso, Doctor? --preguntó Ersheim.
 
-[![](http://www.akarru.org/blog/wp-content/uploads/2011/06/dulces-de-colores-150x150.jpg)](http://www.akarru.org/blog/wp-content/uploads/2011/06/dulces-de-colores.jpg)--Dulces, golosinas -- dijo Tomlin, sonriendo en la medida que abría el paquete y vaciaba su contenido, alrededor de una docena de caramelos de colores, sobre la mesa.
+![](/images/2011/06/dulces-de-colores.jpg)
+
+--Dulces, golosinas -- dijo Tomlin, sonriendo en la medida que abría el paquete y vaciaba su contenido, alrededor de una docena de caramelos de colores, sobre la mesa.
 
 --Ahora, Profesor Ersheim, quiero que por favor separe bleem de estos caramelos del resto --dijo Tomlind, con una sonrisa de satisfacción en su cara.
 
@@ -144,8 +146,8 @@ Tomlin miró a la mesa de noche. Habían tres dulces en la superficie del velado
 
 
 
-Traducido de [http://www.strangehorizons.com/2000/20001120/secret_number.shtml](http://www.strangehorizons.com/2000/20001120/secret_number.shtml)
+Traducido de [https://www.strangehorizons.com/2000/20001120/secret_number.shtml](https://www.strangehorizons.com/2000/20001120/secret_number.shtml)
 
-Ver también: [http://xkcd.com/899/](http://xkcd.com/899/)
+Ver también: [https://xkcd.com/899/](https://xkcd.com/899/)
 
 

@@ -72,7 +72,7 @@ El destino de los Aesir está definido de antemano. Al ser todos dioses guerrero
 
 Thor se enfrentará a su némesis por última vez. A pesar de que terminará matándolo  con su poderoso martillo, Thor apenas logrará dar nueve pasos para caer muerto por el veneno de la serpiente.
 
-[caption id="attachment_381" align="aligncenter" width="212" caption="Thor luchando contra Jörmundgander, pintura de Henry Fuseli, 1788."][![](http://www.akarru.org/blog/wp-content/uploads/2011/06/LaUltimaBatallaDeThor-212x300.jpg)](http://www.akarru.org/blog/wp-content/uploads/2011/06/LaUltimaBatallaDeThor.jpg)[/caption]
+{{<figure caption="Thor luchando contra Jörmundgander, pintura de Henry Fuseli, 1788." src="/images/2011/06/LaUltimaBatallaDeThor.jpg">}}
 
 
 ## El poder de Thor
@@ -84,7 +84,7 @@ En las décadas de los 1940 y 1950 cuando se diseñaban los primeros reactores n
 
 Una de las características de los reactores basados en Torio es que no se producen fisiones críticas, de modo que no es posible que se produzcan desastres nucleares como los de Fukushima o Chernobyl. Además son más eficientes, pues usan una fracción del combustible basado en Uranio, para producir la misma o más energía, esto introduce más seguridad, menos residuos nucleares de los que preocuparse. Es decir, si se hubiera optado por desarrollar los** reactores subcríticos** basados en Torio la energía nuclear representaría una alternativa segura no cuestionada. Pero fue la imposición de las potencias que querían desarrollar armas nucleares la que empujó y estableció el paradigma de los actuales reactores nucleares.
 
-Hace poco el gobierno chino [ha anunciado que desarrollará sus reactores basados en Torio](http://www.google.cl/search?sourceid=chrome&client=ubuntu&channel=cs&ie=UTF-8&q=china+reactores+de+torio), con lo que se abre la posibilidad de tener energía nuclear segura y controlada por la humanidad. Ahí está nuevamente Thor, el protector de la humanidad nos envía su último regalo, la promesa de energía limpia y segura. Ojalá sepamos apreciar este don.
+Hace poco el gobierno chino [ha anunciado que desarrollará sus reactores basados en Torio](https://www.google.cl/search?sourceid=chrome&client=ubuntu&channel=cs&ie=UTF-8&q=china+reactores+de+torio), con lo que se abre la posibilidad de tener energía nuclear segura y controlada por la humanidad. Ahí está nuevamente Thor, el protector de la humanidad nos envía su último regalo, la promesa de energía limpia y segura. Ojalá sepamos apreciar este don.
 
 {{<figure caption="Ciclo del Torio, un combustible nuclear seguro, click para agrandar" src="/images/2011/06/thoriumCycleNielsen_small-300x190.gif">}}
 
@@ -95,9 +95,9 @@ Hace poco el gobierno chino [ha anunciado que desarrollará sus reactores basado
 
 
 	
-  * Este [notable artículo de Wikipedia](http://es.wikipedia.org/wiki/Thor) en español es bastante completo con respecto a la historia de Thor
+  * Este [notable artículo de Wikipedia](https://es.wikipedia.org/wiki/Thor) en español es bastante completo con respecto a la historia de Thor
 
 	
-  * Para informarse sobre las plantas nucleares de Torio: [http://www.cec.uchile.cl/cinetica/pcordero/nuclear.html](http://www.cec.uchile.cl/cinetica/pcordero/nuclear.html)
+  * Para informarse sobre las plantas nucleares de Torio: [http://www.cec.uchile.cl/cinetica/pcordero/nuclear.html](https://www.cec.uchile.cl/cinetica/pcordero/nuclear.html)
 
 
