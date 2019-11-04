@@ -1,0 +1,22 @@
+---
+comments: true
+date: 2010-04-04 11:47:49
+layout: post
+slug: akarru
+title: Akarrú
+wordpress_id: 7
+categories:
+- Sin categoría
+---
+
+Hace tiempo que quería abrir un espacio donde poder escribir de otros temas, no tan tecnológicos, como los que abordo en [La Naturaleza del Software](https://www.lnds.net/) ([LNDS](https://www.lnds.net/)). No es que no lo haya hecho, he escrito de cosas que no son estrictamente tecnológicas, o sobre software en [LNDS](https://www.lnds.net/), pero sentía que muchas veces era impropio, e incluso confuso. Esa es la razón por la que me guardé muchos buenos posts, que espero poder publicar acá.
+
+Akarrú nace como un proyecto personal, aún más personal que [LNDS](https://www.lnds.net/), un proyecto dedicado principalmente a mis hijos. Es a ellos a quienes van a ir dirigidos muchos de estos posts, es como si me sentara con ellos a contarles un relato, o una vieja historia, o a enseñarles algo que me parece importante que sepan.
+
+¿De qué hablaremos acá? Como dijo la morsa, de muchas cosas. Etica, política, ciencia, filosofía, cultura, música, mitología, religión, comics, ciencia ficción, cine, libros, sobretodo de libros. Hay muchas cosas que he leido y que quiero compartir, con mis hijos, y con ustedes.
+
+¿De donde viene akarrú?
+
+Akarrú es el grito de combate de Ógu, el cavernícola compañero de Mampato, uno de los personajes más querido del gran historietista chileno Themo Lobos.
+
+La frase de la morsa viene de Alicia a través del espejo, de Lewis Carroll.

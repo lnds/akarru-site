@@ -94,7 +94,7 @@ Los que atestiguan el paso por la ciudad: "Apollinaris, médico del Emperador Ti
 
 
 
-{{<figure src="/images/2010/05/pacatus.jpg" caption="Pacatus / hic cum suis / mansit Pompeis", Pacato ha dormido acá en Pompeya">}}
+{{<figure src="/images/2010/05/pacatus.jpg" caption="Pacatus / hic cum suis / mansit Pompeis, Pacato ha dormido acá en Pompeya">}}
 
 
 
