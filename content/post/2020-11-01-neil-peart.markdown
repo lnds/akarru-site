@@ -11,7 +11,7 @@ Must be the ones who start
 Closer to the heart             
 
 
-Estoy triste Neil, triste por tu partida. Pero estoy triste por muchas cosas más. ¡Ah! si te contara...
+Estoy triste Neil, triste por tu partida. Pero estoy triste por muchas cosas más. ¡Ah, si te contara!...
 
 Siempre has representado para mi a la excelencia. La pasión por hacer bien lo que sabes hacer bien. 
 
