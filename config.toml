@@ -1,7 +1,6 @@
 baseURL = "https://akarru.com/"
 languageCode = "es"
-title = "Akarru"
-description = "El tiempo ha llegado, dijo la morsa, de hablar de muchas cosas."
+title = "Akarrú"
 theme = "ananke"
 paginate = 10
 disqusShortname = "akarru"
