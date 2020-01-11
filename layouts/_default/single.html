@@ -43,6 +43,17 @@
       {{- .Content -}}
       {{- partial "tags.html" . -}}
       <div class="mt6">
+          <p><b>¿Te gustó?</b></p>
+          <p>
+              Puedes auspiciar este blog en Patreon: &nbsp;
+              <a href="https://www.patreon.com/bePatron?u=6503283" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
+              <script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+          
+              Con tu apoyo puedo mantener esta plataforma activa y generar más contenido.
+          </p>
+          <hr>
+      </div>
+      <div class="mt6">
       {{ if .Site.DisqusShortname }}
         {{ template "_internal/disqus.html" . }}
       {{ end }}
