@@ -4,7 +4,7 @@ title = "Akarrú"
 theme = "ananke"
 paginate = 10
 disqusShortname = "akarru"
-googleAnalytics = ""
+googleAnalytics = "UA-17875835-1"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "es"
