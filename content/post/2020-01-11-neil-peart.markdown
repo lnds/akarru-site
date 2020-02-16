@@ -3,6 +3,12 @@ title: "Neil Peart"
 featured_image: '/images/2020/01/neil_peart.jpg'
 date: 2020-01-11T08:25:11-03:00
 draft: false
+categories:
+- personajes
+- rock
+tags:
+- heroes
+- Rush
 ---
 >And the men who hold high places   
 Must be the ones who start
