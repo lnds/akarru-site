@@ -14,3 +14,5 @@ fields:
 - type: text
   name: featured_image_caption
   label: featured_image_caption
+pages:
+- content/post/test.md
